@@ -36,8 +36,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaydipmodasiya&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaydipmodasiya&theme=github_dark)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaydipmodasiya&theme=github_dark&utcOffset=5.5)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaydipmodasiya&theme=github_dark)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaydipmodasiya&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaydipmodasiya&theme=github_dark)<br/>
+![](https://streak-stats.demolab.com?user=jaydipmodasiya&theme=dark)<br/>
+![](https://metrics.lecoq.io/jaydipmodasiya?template=classic&languages=1&habits=1&activity=1)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaydipmodasiya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
