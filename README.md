@@ -1,4 +1,10 @@
 # 💫 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=70A5FD&center=true&vCenter=true&width=820&lines=Jaydip+Modasiya;Full-Stack+Developer;Automation+%7C+Security+%7C+Real-World+Projects)](https://git.io/typing-svg)
+
+### Quick Intro
+- Building full-stack apps and automation tools with a focus on clean, secure, real-world solutions
+- Open to collaboration and learning advanced cybersecurity and ethical hacking
+
 🔭 **Currently working on**
 - Full-stack web applications
 - Automation and real-world projects
@@ -41,14 +47,20 @@
 ![](https://streak-stats.demolab.com?user=jaydipmodasiya&theme=dark)<br/>
 ![](https://metrics.lecoq.io/jaydipmodasiya?template=classic&languages=1&habits=1&activity=1)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaydipmodasiya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Highlights
+![Followers](https://img.shields.io/github/followers/jaydipmodasiya?label=Followers&style=for-the-badge)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=jaydipmodasiya&theme=github-dark&hide_border=true&area=true)
+
+### 🐍 Contribution Snake
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=jaydipmodasiya&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaydipmodasiya&icon=2&color=0)](https://visitcount.itsvg.in)
